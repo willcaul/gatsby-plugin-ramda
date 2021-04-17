@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-ramda",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy modular Ramda builds. Adds the Ramda Babel plugin to your Gatsby build",
   "main": "index.js",
   "scripts": {
@@ -34,7 +34,7 @@
     "cross-env": "^5.1.4"
   },
   "peerDependencies": {
-    "gatsby": "^2.0.0",
+    "gatsby": ">=2.0.0",
     "ramda": ">=0.25.0"
   }
 }
